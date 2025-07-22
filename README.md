@@ -13,6 +13,11 @@
 </br>
 
 
+1. **Visit Website:**
+
+    - [![Visit Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](http://abdullah.battlecore.xyz/)
+
+
 <br>
 <h4 align="left">About > </h4><br>
 
@@ -44,17 +49,6 @@ python3 FB.py or python FB2.py
 <p align="center";><img src="./data/carbon.png"> 
 <p align="center";><img src="./data/d1.jpg"> 
 
-## Protection Against Attacker
-* Use Strong Password(which contains standard password chars + longest as possible)
-* Use 2F Authentication.
-* Make location based login(+browser based).
-<br>
->FB-BRUTE is released under the MIT license, which grants the following permissions:
-- Commercial use
-- Modification
-- Distribution
-- Patent use
-- Private use
 
 
 <h3 align="center"><b>DESCRIPTION</b></h3>

@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ALL%2IS%20ONE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ALL%20IS%20ONE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
 
 
 

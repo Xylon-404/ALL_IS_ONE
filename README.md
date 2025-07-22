@@ -1,5 +1,7 @@
-<p align="center"><img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20BRUTE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FACEBOOK%20BRUTEFORCE%20TOOLS%20FOR%20TERMUX%20OR%20LINUX%20USERS&descAlignY=51&descAlign=62](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ALL%20IS%20ONE&fontAlignY=47&fontAlign=48&animation=blinking&desc=Create%20By%20Abdullha)" width="100%"/>
-</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ALL%2IS%20ONE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%MADE%20BY%20XYLON!&descAlignY=51&descAlign=62" width="100%"/>
+
+
 
 
 <h2 align="center">FB BRUTE FORCE TOOL</h2>

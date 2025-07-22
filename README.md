@@ -42,10 +42,10 @@ pkg install git
 pkg install python
 pip install requests
 rm -rf FB-BRUTE
-git clone --depth=1 https://github.com/U7P4L-IN/FB-BRUTE.git
-cd FB-BRUTE
+git clone --depth=1 https://github.com/Xylon-404/ALL_IS_ONE.git
+cd ALL_IS_ONE
 chmod +x *
-python3 FB.py or python FB2.py
+python index.py
 ```
 
 <p align="center";><img src="./data/carbon.png"> 
